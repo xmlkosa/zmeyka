@@ -11,8 +11,8 @@ red = (213, 50, 80)
 green = (0, 255, 0)
 blue = (50, 153, 213)
 
-dis_width = 800#дисплей
-dis_height = 600
+dis_width = 1200#дисплей
+dis_height = 900
 dis = pygame.display.set_mode((dis_width, dis_height))
 pygame.display.set_caption('Змеюка')
 clock = pygame.time.Clock()
@@ -111,3 +111,4 @@ gameLoop()
 #Спасибо за просмотр моего проекта надеюсь он вам понравился<з
 
 #by xmlkosa<з
+
